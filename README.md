@@ -1,2 +1,2 @@
-# java_codsoft-task1
+ java_codsoft-task1
 Number guessing game
